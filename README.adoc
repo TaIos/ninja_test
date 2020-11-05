@@ -3,3 +3,4 @@
 Learning build tool https://github.com/ninja-build/ninja[ninja].
 
 Very simple tutorial reference: https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds/
+Ninja syntax example: https://ninja-build.org/manual.html#_syntax_example
